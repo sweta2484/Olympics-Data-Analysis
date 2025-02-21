@@ -33,7 +33,4 @@ Feature Engineering: Added new insights like total medals won, gender ratio, and
 Expand dataset to include more recent Olympic Games.
 Improve predictive model with advanced machine learning techniques.
 Integrate real-time Olympic statistics for live tracking.
-## 📬 Contact
-Email: ds075156@gmail.com
-LinkedIn: https://www.linkedin.com/in/dhruvsingh-data-analyst/
-GitHub: https://github.com/dhru07
+
